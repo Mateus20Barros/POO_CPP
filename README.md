@@ -28,9 +28,6 @@ de ambiente do computador para que assim seja possivel executar e exibir o resul
 
 Projeto sem qualquer interface grafica, apenas sendo possivel exibir os dados no CMD ou prompt de comando como mencionado anteriormente.
 
-<br>
-
-### 
 
 ### 🚀 Tecnologias
 
